@@ -9,4 +9,4 @@ Install pandas by typing (pip install pandas) in jupyter notebook or command pro
 
 ##Run file:
 in command prompt with python or copy paste it in jupyter notebook and run it there.
-The output.csv will appear in the wokring folder
+The output.csv will appear in the working folder.
